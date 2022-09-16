@@ -2,7 +2,7 @@
 
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=RestartButton&show_icons=true&theme=dark&hide=stars,issues&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=RestartButton&show_icons=true&theme=dark&hide=stars,contribs,prs&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestartButton&layout=compact&theme=dark">
 </p>
 
