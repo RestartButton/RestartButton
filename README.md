@@ -9,9 +9,9 @@ Interessado em C++, Java e NodeJs.
 
 <hr>
 
-<div style="display:inline-block;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RestartButton&show_icons=true&theme=dark&hide=stars,prs&count_private=true&include_all_commits=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestartButton&layout=compact&theme=dark">
+<div align="center" style="display:inline-block;">
+<img width="457" height="180em" src="https://github-readme-stats.vercel.app/api?username=RestartButton&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
+<img width="445" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestartButton&layout=compact&theme=tokyonight">
 </div>
 
 
