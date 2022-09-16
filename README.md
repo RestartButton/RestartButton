@@ -1,9 +1,10 @@
 ### Olá 👋
 
 
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=RestartButton&show_icons=true&theme=dark&hide=contribs,prs&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestartButton&layout=compact&theme=dark">
-
+</p>
 
 
 <p>
@@ -15,6 +16,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45">
 </p>
+
+
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-borges-423b041b0)
 
 <!--
 **RestartButton/RestartButton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
