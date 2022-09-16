@@ -19,10 +19,10 @@
 
 <hr>
 
-<p>
+
 [![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-borges-423b041b0)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite)](https://www.instagram.com/scaryentity)
-</p>
+
 
 <!--
 **RestartButton/RestartButton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
