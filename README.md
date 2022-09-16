@@ -2,14 +2,16 @@
 
 <p>
 Aluno de Ciências da Computação Universidade do Vale do Itajaí - UNIVALI 
+</p>
+<p>
 Interessado em C++, Java e NodeJs.
 </p>
 
 <hr>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=RestartButton&show_icons=true&theme=dark&hide=stars,prs&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestartButton&layout=compact&theme=dark">
+<img width="180" src="https://github-readme-stats.vercel.app/api?username=RestartButton&show_icons=true&theme=dark&hide=stars,prs&count_private=true&include_all_commits=true">
+<img width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestartButton&layout=compact&theme=dark">
 </div>
 
 
