@@ -9,12 +9,12 @@ Interessado em C++, Java e NodeJs.
 
 <hr>
 
-<!--
+
 <div align="center" style="display:inline-block;">
 <img width="442" height="180em" src="https://github-readme-stats.vercel.app/api?username=RestartButton&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true">
 <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RestartButton&layout=compact&theme=tokyonight">
 </div>
--->
+
 
 
 <p>
